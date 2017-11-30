@@ -1,0 +1,27 @@
+{
+  "name": "responsive_website_ae2",
+  "version": "1.0.0",
+  "description": "A skeleton file structure for Web Design AE2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FullerJam/responsive_website_ae2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FullerJam/responsive_website_ae2/issues"
+  },
+  "homepage": "https://github.com/FullerJam/responsive_website_ae2#readme",
+  "dependencies": {
+    "fontawesome": "^4.7.2",
+    "vee-validate": "^2.0.0-rc.25",
+    "vue": "^2.5.9"
+  },
+  "devDependencies": {
+    "fontawesome-scss": "^2.0.4"
+  }
+}
